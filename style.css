@@ -1,3 +1,6 @@
+.header {
+  z-index: 1;
+}
 ul > li {
   display: inline;
   margin-left: 12px;
@@ -15,4 +18,14 @@ a:hover {
   color: black;
   text-decoration: none;
   cursor: pointer;
+}
+.herobgimg {
+  background-image: url("../breatheasy/assets/Background\ Deco.svg");
+  background-repeat: no-repeat;
+  /* width: 200px;
+  height: 300px; */
+  background-size: contain;
+  background-position: right;
+  z-index: 0;
+  height: 700px;
 }
