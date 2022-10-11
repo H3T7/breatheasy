@@ -1,0 +1,34 @@
+.why_container{
+    padding: 20px;
+}
+.textStyle{
+    word-wrap: break-word;
+}
+.datarow{
+    margin: 20px;
+}
+.imgSty{
+    height: 70%;
+    border-radius: 10px;
+    
+}
+.herobgimgSecond {
+    background-image: url("../breatheasy/assets/Group\ 5.png");
+    background-repeat: no-repeat;
+    /* width: 200px;
+    height: 300px; */
+    background-size: contain;
+    background-position: right;
+    z-index: 0;
+    height: 450px;
+  }
+.herobgimgThird {
+    background-image: url("../breatheasy/assets/Deco.png");
+    background-repeat: no-repeat;
+    /* width: 200px;
+    height: 300px; */
+    background-size: contain;
+    background-position: left;
+    z-index: 0;
+    height: 800px;
+  }
