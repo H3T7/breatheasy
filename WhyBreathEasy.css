@@ -2,12 +2,13 @@
     padding: 20px;
 }
 .textStyle{
-    word-wrap: break-word;
+    /* word-wrap: break-word; */
+    margin-top: 100px;
 }
 .datarow{
     margin-top: 20px;
     margin-bottom: 20px;
-
+height: 630px;
 }
 .imgSty{
     height: 70%;
