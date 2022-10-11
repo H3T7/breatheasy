@@ -5,7 +5,9 @@
     word-wrap: break-word;
 }
 .datarow{
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
 }
 .imgSty{
     height: 70%;

@@ -32,7 +32,8 @@ a:hover {
   background-size: contain;
   background-position: right;
   z-index: 0;
-  height: 700px;
+  height: 800px;
+ 
 }
 .Herotext{
     padding-top:120px;
@@ -50,4 +51,15 @@ a:hover {
     background-color: #D1E4F6;
     border-radius: 999px;
 
+}
+.imgextra{
+  background-image: url("../breatheasy/assets/Group\ 6.png");
+  background-repeat: no-repeat;
+  /* width: 200px;
+  height: 300px; */
+  background-size: contain;
+  background-position: left;
+  z-index: 0;
+  height: 450px;
+ /* transform: scaleX(-1); */
 }
