@@ -26,7 +26,7 @@ a:hover {
   cursor: pointer;
 }
 .herobgimg {
-  background-image: url("../breatheasy/assets/Background\ Deco.svg");
+  background-image: url("../assets/Background\ Deco.svg");
   background-repeat: no-repeat;
   /* width: 200px;
   height: 300px; */
@@ -52,7 +52,7 @@ a:hover {
   border-radius: 999px;
 }
 .imgextra {
-  background-image: url("../breatheasy/assets/Group\ 6.png");
+  background-image: url("../assets/Group\ 6.png");
   background-repeat: no-repeat;
   /* width: 200px;
   height: 300px; */
